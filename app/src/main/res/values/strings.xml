@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlowHub AI</string>
+    <string name="switch_account">Cambio de cuenta</string>
+    <string name="flow_tab">Flow</string>
+    <string name="notebook_tab">NotebookLM</string>
+    <string name="assets_tab">Assets</string>
+</resources>

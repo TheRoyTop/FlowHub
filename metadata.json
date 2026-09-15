@@ -1,0 +1,6 @@
+{
+  "name": "FlowHub AI",
+  "description": "FlowHub AI Mobile Dashboard con integración de Flow, NotebookLM y alternador multicuenta continuo de cuentas Gmail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
